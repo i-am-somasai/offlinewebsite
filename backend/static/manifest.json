@@ -1,0 +1,16 @@
+{
+    "name": "Offline Notebook LM",
+    "short_name": "NotebookLM",
+    "description": "An offline-capable LLM notebook application",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#6366f1",
+    "icons": [
+        {
+            "src": "favicon.ico",
+            "sizes": "64x64",
+            "type": "image/x-icon"
+        }
+    ]
+} 

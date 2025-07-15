@@ -1,0 +1,24 @@
+fastapi[standard]
+python-multipart
+psutil
+pyautogui
+pyaudio
+SpeechRecognition
+numpy==1.26.4
+webrtcvad-wheels
+PyPDF2
+pyttsx3
+python-docx
+sounddevice>=0.4.6
+soundfile>=0.12.1
+gTTS>=2.3.2
+Pillow
+pywin32 ; platform_system == "Windows"
+aiofiles
+watchdog
+openai-whisper 
+faster-whisper
+torch==2.2.2+cu121
+torchaudio==2.2.2+cu121
+pydub>=0.25.1
+--find-links https://download.pytorch.org/whl/torch_stable.html
